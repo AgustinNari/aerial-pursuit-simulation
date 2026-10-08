@@ -1,6 +1,6 @@
 # Aerial Pursuit Simulation
 
-Interactive simulation of an aircraft–missile pursuit scenario developed as a modeling and simulation project.
+Interactive simulation of an aircraft–missile pursuit scenario developed as a team project for a modeling and simulation course.
 
 The application combines numerical simulation with interactive controls and visual representations of trajectories, distances, and system behavior.
 
