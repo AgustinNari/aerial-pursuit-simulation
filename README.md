@@ -48,7 +48,7 @@ Build the application:
 npm run build
 ```
 
-Run tests, when available in the consolidated version:
+Run tests:
 
 ```bash
 npm test
