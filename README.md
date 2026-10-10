@@ -85,7 +85,7 @@ npm test
 
 ## Documentation
 
-The original simulation specification and supporting material are available under:
+Supporting data contracts and example simulation results are available under docs/.
 
 ```text
 docs/
