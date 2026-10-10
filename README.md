@@ -6,7 +6,7 @@ The application combines numerical simulation with interactive controls and visu
 
 ## Screenshots
 
-The screenshots show the tactical simulation workspace, an interception scenario, distance analysis, an alternative light-themed 2D view, and the mathematical theory index. Select an image to view it at full resolution.
+The screenshots show the tactical simulation workspace, an interception scenario, distance analysis, an alternative light-themed 2D view, and mathematical foundations illustrated with equations and step-by-step explanations. Select an image to view it at full resolution.
 
 <table>
   <tr>
@@ -25,11 +25,11 @@ The screenshots show the tactical simulation workspace, an interception scenario
   </tr>
   <tr>
     <th>Light Theme / 2D Trajectories</th>
-    <th>Mathematical Theory Topics</th>
+    <th>Mathematical Theory & Equations</th>
   </tr>
   <tr>
     <td align="center"><a href="docs/screenshots/light-theme-2d.webp"><img src="docs/screenshots/light-theme-2d.webp" alt="Expanded 2D aircraft and missile trajectory plot in the light theme" width="420"></a></td>
-    <td align="center"><a href="docs/screenshots/theory-topics.webp"><img src="docs/screenshots/theory-topics.webp" alt="Theory section index covering motion equations, numerical integration, pursuit guidance, and stability" width="420"></a></td>
+    <td align="center"><a href="docs/screenshots/theory-topics.webp"><img src="docs/screenshots/theory-topics.webp" alt="Mathematical theory section showing vector equations, explanations, and step-by-step procedures" width="420"></a></td>
   </tr>
 </table>
 
